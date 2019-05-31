@@ -1,7 +1,16 @@
+# Lab 01 Report - Introduction to Open Source Software
 
-## Name: Mukkai S. Krishnamoorthy ( moorthy) - 
-### email: moorthy@cs.rpi.edu 
-### office Lally 305
-### github account: mskmoorthy
-### slack handle: mskmoorthy
-Photo of Moorthy ![Moorthy](images/msk.jpg)
+# READING ASSIGNMENTS
+
+# LINUX
+
+
+# REGEX
+![](exercises.png)
+
+![](regexcross.png)
+
+# SNAP OR BLOCKLY
+
+
+# REFLECTION
