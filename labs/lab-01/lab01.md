@@ -3,7 +3,7 @@
 # READING ASSIGNMENTS
 
 # LINUX
-![](Screenshot from 2019-05-30 23-23-27.png)
+![](Screenshot%20from%202019-05-30%2023-23-27.png)
 
 # REGEX
 ![](exercises.png)
@@ -12,5 +12,6 @@
 
 # SNAP OR BLOCKLY
 
+![](Crosly.png)
 
 # REFLECTION
