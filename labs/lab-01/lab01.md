@@ -3,7 +3,7 @@
 # READING ASSIGNMENTS
 
 # LINUX
-
+![]()
 
 # REGEX
 ![](exercises.png)
