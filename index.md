@@ -8,7 +8,7 @@ Junior CS Student.
 
 Like to Ski, and like the rain!
 
-
+![](Me_irl.jpg)
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
