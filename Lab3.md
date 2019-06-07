@@ -15,15 +15,4 @@
 ### Gitstats computes that the project age is 17 days, with 8 active coding days. 
 
 
-$$\sqrt{1 + 2\sqrt{1 + 3\sqrt{1 + 4\sqrt{1 + \dots}}}} $$
 
-$$\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\dots}}}} $$
-
-\[
-\begin{bmatrix}
-	1 & 1 & 1 & 1 \\
-    -1 & 1 & -1 & 1 \\
-    -1 & -1 & 1 & 1 \\
-    1 & -1 & -1 & 1 
-\end{bmatrix}
-\]
