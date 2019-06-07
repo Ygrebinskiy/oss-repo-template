@@ -13,3 +13,17 @@
 ### Total Lines of Code is larger for gitstats, since they count markdowns as lines of code. Gitstats: 3229 lines of code
 ### First and Last Commit are the same week.
 ### Gitstats computes that the project age is 17 days, with 8 active coding days. 
+
+
+$$\sqrt{1 + 2\sqrt{1 + 3\sqrt{1 + 4\sqrt{1 + \dots}}}} $$
+
+$$\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\dots}}}} $$
+
+\[
+\begin{bmatrix}
+	1 & 1 & 1 & 1 \\
+    -1 & 1 & -1 & 1 \\
+    -1 & -1 & 1 & 1 \\
+    1 & -1 & -1 & 1 
+\end{bmatrix}
+\]
