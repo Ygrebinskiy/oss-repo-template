@@ -1,7 +1,7 @@
 Documentation:
 
 ![](Lab03Latex.png)
-
+![](Lab03Hadamard.png)
 
 # Hazel Heaters
 
